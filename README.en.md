@@ -32,7 +32,7 @@
 
 Vercel:<http://dy.ttentau.top/>(China recommends visiting this)
 
-Netlify:<https://douyins.netlify.app/>(Recommend visiting this for areas outside China)
+Netlify:<https://douyins.netlify.app/>(Recommended to visit this for areas outside China)
 
 Android Apk:<https://github.com/zyronon/douyin/releases>
 
@@ -89,11 +89,11 @@ The video comes from the following Douyin celebrities
 
 Picture from Xiaohongshu public notes
 
-The above content is all public information on the Internet
+以上内容均是互联网公开信息
 
 ## Features and suggestions
 
-The project is currently in the early stages of development, and new features are being added continuously. If you have any features or suggestions for the software, please feel free to contact us.`Issues`raised in
+The project is currently in the early stages of development and new features are being added continuously. If you have any features or suggestions for the software, please feel free to contact us.`Issues`raised in
 If you also like the design ideas of this software, please submit it`PR`, thank you very much for your support!
 
 ## contact me
