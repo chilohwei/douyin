@@ -32,7 +32,7 @@
 
 Vercel:<http://dy.ttentau.top/>(China recomienda visitar esto)
 
-Netlificar:<https://douyins.netlify.app/>(Recomiende visitar esto para áreas fuera de China)
+Netlificar:<https://douyins.netlify.app/>(Se recomienda visitar esto para áreas fuera de China)
 
 Android Apk:<https://github.com/zyronon/douyin/releases>
 
@@ -80,7 +80,7 @@ El video proviene de las siguientes celebridades de Douyin.
 -   `小橙子`:<https://v.douyin.com/iYRAnudw/>
 -   `南恬`:<https://v.douyin.com/iYRAbKm3/>
 -   `小霸宠牛排 🥩`：<https://v.douyin.com/iYRSosVB/>
--   `奶茶妹 ◕🌱`:<https://v.douyin.com/iYRACKhP/>
+-   `奶茶妹 ◕🌱`: <https://v.douyin.com/iYRACKhP/>
 -   `我才是岚岚`:<https://v.douyin.com/iYRAQM1C/>
 -   `周憬艺 ziran`:<https://v.douyin.com/iYRAQs4h/>
 -   `刘思瑶 nice`:<https://v.douyin.com/iYRAaERn/>
@@ -93,12 +93,12 @@ El contenido anterior es toda información pública en Internet.
 
 ## Funciones y sugerencias
 
-El proyecto se encuentra actualmente en las primeras etapas de desarrollo y continuamente se agregan nuevas funciones. Si tiene alguna característica o sugerencia para el software, no dude en contactarnos.`Issues`criado en
+El proyecto se encuentra actualmente en las primeras etapas de desarrollo y continuamente se agregan nuevas características. Si tiene alguna característica o sugerencia para el software, no dude en contactarnos.`Issues`criado en
 Si también le gustan las ideas de diseño de este software, envíelas.`PR`, ¡Muchas gracias por tu apoyo!
 
 ## contáctame
 
-您可以联系我的邮箱 <a href="mailto:zyronon@163.com">zyronon@163.com</a>
+Puedes contactar a mi correo<a href="mailto:zyronon@163.com">zyronon@163.com</a>
 
 > Comparta mis otros proyectos de código abierto:
 >
